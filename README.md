@@ -1,7 +1,7 @@
 # Superstore_Sales_dashboard
 
 ## 🔍 Project Overview
-This project involves the creation of an **interactive Sales Intelligence Dashboard** using Microsoft Power BI. It analyzes the Superstore sales dataset to extract insights that aid business decisions related to profitability, customer segmentation, regional performance, and product trends.
+This project involves the creation of an **interactive Superstore_Sales_dashboard** using Microsoft Power BI. It analyzes the Superstore sales dataset to extract insights that aid business decisions related to profitability, customer segmentation, regional performance, and product trends.
 
 ---
 
@@ -53,9 +53,7 @@ Sales-Intelligence-Dashboard/
 ├── 📊 Dashboard.pdf
 │
 ├── 📁 Dataset/                   
-│   └── Superstore.csv            
-│
-├── 📄 Presentation.pdf           
+│   └── Superstore.csv                      
 │
 ├── 📘 README.md                   
 │
